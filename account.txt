@@ -1,42 +1,39 @@
-;2022-01 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总 (KB5009624)； 字节：357.1 MB
+;2022-01 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5009624-
 x86_19ac6e71c2630f1fe80d78fcd7b2ea72350a5e27.msu
 
-;2022-01 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总 (KB5009624)； 字节：546.9 MB
+;2022-01 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5009624-
 x64_ae9f21e6bcae6274ea54ed380ab0a961aa7d6377.msu
 
-;2022-01 适用于 Windows 8.1 基于 x86 系统的 .NET Framework 4.8 的安全和质量汇总 (KB5008883)； 字节：31.4 MB
+;2022-01 适用于 Windows 8.1 基于 x86 系统的 .NET Framework 4.8 的安全和质量汇总
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows8.1-kb5008883-x86-
 ndp48_90b8b5dc25a6a126b62e4ac46f2ad8c8c5ed70e5.msu
 
-;2022-01 适用于 Windows 8.1 和 Server 2012 R2 基于 x64 系统的 .NET Framework 4.8 的安全和质量汇总 (KB5008883)
-； 字节：55.9 MB
+;2022-01 适用于 Windows 8.1 和 Server 2012 R2 基于 x64 系统的 .NET Framework 4.8 的安全和质量汇总
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows8.1-kb5008883-x64-
 ndp48_8b9ed3b3bc498a687c2c875088a41843284a04f5.msu
 
-;2022-01 适用于 Windows 8.1 基于 x86 系统的更新 (KB5010215)； 字节：28.0 MB
+;2022-01 适用于 Windows 8.1 基于 x86 系统的更新
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/01/windows8.1-kb5010215-
 x86_305b06817887c747ec3f33273d43e54ca68b714c.msu
 
-;2022-01 适用于 Windows 8.1 基于 x64 系统的更新 (KB5010215)； 字节：40.1 MB
+;2022-01 适用于 Windows 8.1 基于 x64 系统的更新
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/01/windows8.1-kb5010215-
 x64_0ec1ce1de5ece93cee398a2366c6a64896279030.msu
 
-;2022-01 适用于 Windows 10 Version 1809 基于 x86 系统的累积更新 (KB5009557)； 字节：307.2 MB
+;2022-01 适用于 Windows 10 Version 1809 基于 x86 系统的累积更新
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows10.0-kb5009557-
 x86_5e941e1eaebaf6f035bd4acf523217432d658510.msu
 
-;2022-01 适用于 Windows 10 Version 1809 基于 x64 系统的累积更新 (KB5009557)； 字节：556.7 MB
+;2022-01 适用于 Windows 10 Version 1809 基于 x64 系统的累积更新
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/01/windows10.0-kb5009557-
 x64_ddc44e498763e16196d8a19dbf4ae54078d31c46.msu
 
-;2022-01 适用于 Windows 10 Version 1809 基于 x86 系统的 .NET Framework 3.5 和 4.8 的累积更新 (KB5008878)； 字
-节：46.1 MB
+;2022-01 适用于 Windows 10 Version 1809 基于 x86 系统的 .NET Framework 3.5 和 4.8 的累积更新
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/12/windows10.0-kb5008878-x86-
 ndp48_96ff35b5e670c71030c3d211d822b5fea9b3c876.msu
 
-;2022-01 适用于 Windows 10 Version 1809 基于 x64 系统的 .NET Framework 3.5 和 4.8 的累积更新 (KB5008878)； 字
-节：80.1 MB
+;2022-01 适用于 Windows 10 Version 1809 基于 x64 系统的 .NET Framework 3.5 和 4.8 的累积更新
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/12/windows10.0-kb5008878-x64-
 ndp48_1b3c7e40c5ba4b6325148980b4d939d5ae8d391d.msu
