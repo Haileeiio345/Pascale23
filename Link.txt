@@ -33,10 +33,8 @@ _8.1x64=http://download.windowsupdate.com/d/msdownload/update/software/secu/2022
 
 
 ;2022-06 适用于 Windows 8.1 基于 x86 系统的仅安全更新
-_only_8.1x32=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows8.1-kb5014746-
-x86_2062fb777b8351ac789debe64fdb985e1267f503.msu
+_only_8.1x32=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows8.1-kb5014746-x86_2062fb777b8351ac789debe64fdb985e1267f503.msu
 
 
 ;2022-06 适用于 Windows 8.1 基于 x64 系统的仅安全更新
-_only_8.1x64=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows8.1-kb5014746-
-x64_0bd802a61d7577128b19e53d31930e6256498cb8.msu
+_only_8.1x64=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows8.1-kb5014746-x64_0bd802a61d7577128b19e53d31930e6256498cb8.msu
